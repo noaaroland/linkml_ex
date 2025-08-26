@@ -1,0 +1,14 @@
+2 validation errors for list[DashboardUser]
+0.submissions.0.oads_metadata.0.investigators.0
+  Input should be a valid integer [type=int_type, input_value=Person(id=1,title=None,fi...tor,DashboardUser_id=1,), input_type=Person]
+    For further information visit https://errors.pydantic.dev/2.11/v/int_type
+0.submissions.0.oads_metadata.0.data_submitters.0
+  Input should be a valid integer [type=int_type, input_value=Person(id=2,title=None,fi...ker,DashboardUser_id=1,), input_type=Person]
+    For further information visit https://errors.pydantic.dev/2.11/v/int_type
+2 validation errors for DashboardUser
+submissions.0.oads_metadata.0.investigators.0
+  Input should be a valid integer [type=int_type, input_value=Person(id=1,title=None,fi...tor,DashboardUser_id=1,), input_type=Person]
+    For further information visit https://errors.pydantic.dev/2.11/v/int_type
+submissions.0.oads_metadata.0.data_submitters.0
+  Input should be a valid integer [type=int_type, input_value=Person(id=2,title=None,fi...ker,DashboardUser_id=1,), input_type=Person]
+    For further information visit https://errors.pydantic.dev/2.11/v/int_type
