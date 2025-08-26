@@ -1,0 +1,35 @@
+{
+    "email": "roland.schweitzer@noaa.gov",
+    "id": 1,
+    "active": null,
+    "submissions": [
+        {
+            "submitted_to_ncei": null,
+            "created": null,
+            "modified": null,
+            "oads_metadata": [
+                {
+                    "id": 1,
+                    "title": "Data",
+                    "abstract": "An Abstract",
+                    "data_license": "free",
+                    "related_datasets": [],
+                    "investigators": [
+                        {
+                            "id": 1,
+                            "first_name": "Only",
+                            "last_name": "Investigator"
+                        }
+                    ],
+                    "data_submitter": [
+                        {
+                            "id": 2,
+                            "first_name": "First",
+                            "last_name": "Labworker"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
