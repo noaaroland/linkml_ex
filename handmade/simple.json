@@ -1,0 +1,46 @@
+[
+    {
+        "id": 4,
+        "active": true,
+        "email": "roland.schweitzer@noaa.gov",
+        "submissions": [
+            {
+                "submitted_to_ncei": null,
+                "date_submitted_to_ncei": null,
+                "created": "2025-08-26T14:55:00.791299",
+                "modified": "2025-08-26T14:55:00.791299",
+                "oads_metadata": {
+                    "id": 4,
+                    "submision_date": null,
+                    "title": "Data",
+                    "abstract": "An Abstract",
+                    "use_limitation": null,
+                    "purpose": null,
+                    "data_license": "free",
+                    "related_datasets": [],
+                    "investigators": [
+                        {
+                            "id": 7,
+                            "title": null,
+                            "first_name": "Only",
+                            "last_name": "Investigator",
+                            "organizations": [],
+                            "contact_information": null
+                        }
+                    ],
+                    "data_submitter": [
+                        {
+                            "id": 8,
+                            "title": null,
+                            "first_name": "First",
+                            "last_name": "Labworker",
+                            "organizations": [],
+                            "contact_information": null
+                        }
+                    ]
+                },
+                "files": []
+            }
+        ]
+    }
+]
